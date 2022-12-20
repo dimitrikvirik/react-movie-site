@@ -1,0 +1,179 @@
+{
+  "movies": [
+    {
+      "id": 2,
+      "title": "Double Indemnity",
+      "year": "1944",
+      "favorite": true,
+      "genre": "Comedy"
+    },
+    {
+      "id": 3,
+      "title": "MAIERIG",
+      "year": "1932",
+      "favorite": false,
+      "genre": "Comedy"
+    },
+    {
+      "id": 4,
+      "title": "Psycho",
+      "year": "1960",
+      "favorite": false,
+      "genre": "Thriller"
+    },
+    {
+      "id": 5,
+      "title": "Jaws",
+      "year": "1975",
+      "favorite": false,
+      "genre": "Thriller"
+    },
+    {
+      "id": 6,
+      "title": "The Exorcist",
+      "year": "1973",
+      "favorite": false,
+      "genre": "Thriller"
+    },
+    {
+      "id": 7,
+      "title": "Casablanca",
+      "year": "1942",
+      "favorite": true,
+      "genre": "Drama"
+    },
+    {
+      "id": 8,
+      "title": "Gone with the Wind",
+      "year": "1939",
+      "favorite": false,
+      "genre": "Drama"
+    },
+    {
+      "id": 9,
+      "title": "West Side Story",
+      "year": "1961",
+      "favorite": false,
+      "genre": "Musical"
+    },
+    {
+      "id": 10,
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "favorite": false,
+      "genre": "Musical"
+    },
+    {
+      "id": 11,
+      "title": "The Wizard of Oz",
+      "year": "1961",
+      "favorite": false,
+      "genre": "Musical"
+    },
+    {
+      "id": 12,
+      "title": "The Sound of Music",
+      "year": "1965",
+      "favorite": true,
+      "genre": "Musical"
+    },
+    {
+      "id": 13,
+      "title": "All About Eve",
+      "year": "1950",
+      "favorite": false,
+      "genre": "Drama"
+    },
+    {
+      "id": 14,
+      "title": "The African Queen",
+      "year": "1951",
+      "favorite": false,
+      "genre": "Adventure"
+    },
+    {
+      "id": 15,
+      "title": "Chinatown",
+      "year": "1974",
+      "favorite": false,
+      "genre": "Detective"
+    },
+    {
+      "id": 16,
+      "title": "The Graduate",
+      "year": "1967",
+      "favorite": false,
+      "genre": "Comedy"
+    },
+    {
+      "id": 17,
+      "title": "Casablanca",
+      "year": "1942",
+      "favorite": false,
+      "genre": "Drama"
+    },
+    {
+      "id": 18,
+      "title": "Raging Bull",
+      "year": "1980",
+      "favorite": false,
+      "genre": "Drama"
+    },
+    {
+      "id": 19,
+      "title": "Annie Hall",
+      "year": "1977",
+      "favorite": false,
+      "genre": "Comedy"
+    },
+    {
+      "id": 20,
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "favorite": false,
+      "genre": "Musical"
+    },
+    {
+      "id": 21,
+      "title": "Rear Window",
+      "year": "1954",
+      "favorite": false,
+      "genre": "Detective"
+    },
+    {
+      "id": 22,
+      "title": "Doctor Zhivago",
+      "year": "1966",
+      "favorite": false,
+      "genre": "Adventure"
+    },
+    {
+      "id": 23,
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "favorite": false,
+      "genre": "Musical"
+    },
+    {
+      "id": 24,
+      "title": "Rear Window",
+      "year": "1954",
+      "favorite": false,
+      "genre": "Detective"
+    },
+    {
+      "id": 25,
+      "title": "Window",
+      "year": "1954",
+      "favorite": false,
+      "genre": "Detective"
+    }
+  ],
+  "users": [
+    {
+      "email": "sgabu@gmail.com",
+      "password": "$2a$10$.y6I9do6MielnXbjXueuYeNwrXNcgFLyjXDjjOoSOt2tq15iiMvyG",
+      "id": 1
+    }
+  ]
+}
